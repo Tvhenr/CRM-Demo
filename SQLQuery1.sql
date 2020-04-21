@@ -1,0 +1,1 @@
+select * from member_master_tbl;
